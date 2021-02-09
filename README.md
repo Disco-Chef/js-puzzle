@@ -1,3 +1,2 @@
 Clone the project and run:
-`yarn install`
-`webpack-dev-server`
+`yarn install` and then `webpack-dev-server`
