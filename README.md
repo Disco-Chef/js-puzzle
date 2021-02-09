@@ -1,2 +1,2 @@
-Clone the project and run:
-`yarn install` and then `webpack-dev-server`
+Clone the project and `cd` into it. Then, run:
+`yarn install` and `webpack-dev-server`
